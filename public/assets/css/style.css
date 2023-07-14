@@ -1,0 +1,32 @@
+.navbar .navbar-item .dropdown-menu{ display: none;}
+.navbar .navbar-item:hover .dropdown-menu{ display: block;}
+.bg-orange{background-color: #FF4800;}
+.bg-orange:hover
+{
+    background-color: #D93D00;
+    color: white;
+}
+.nav-link:hover
+{
+    background-color: #FF4800;
+    color: white;
+}
+
+.text-orange, .text-orange:hover{ color:#FF4800;}
+
+.banner-section
+{
+    background-image: url("../img/header.jpg");
+    height: 500px;
+}
+
+.banner-card
+{
+    margin-top: 130px;
+    padding: 50px;
+}
+
+.free-quote-form
+{
+    padding:80px;
+}
